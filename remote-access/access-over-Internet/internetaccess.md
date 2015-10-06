@@ -13,7 +13,7 @@ sudo apt-get update
 
 Install the weavedconnectd package:
 ```
-sudo apt-get install weavedConnectd
+sudo apt-get install weavedconnectd
 ```
 Next run the weavedinstaller.  The weavedinstaller will ask you to input your Weaved account user name (email) and password.  You can create a Weaved user account here: https://developer.weaved.com/portal/index.php.   After you have created an account, go back to the Pi command line window.  Enter the command below to run the weavedinstaller on your Pi.  Follow the on-screen instructions in the Pi terminal window.
 
