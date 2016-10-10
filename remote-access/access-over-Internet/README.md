@@ -10,7 +10,7 @@ One method is to set port forwarding up on your router. To set port forwarding u
 
 Alternative online services are available.
 
-### Weaved
+### remot3.it ("remote it" by Weaved, Inc.)
 
 One secure alternative to port forwarding is the Weaved service. Weaved is software you install on your Raspberry Pi which lets you connect to your Pi from anywhere over the internet. SSH, VNC, HTTP, SFTP file transfer, and any other TCP service running on your Pi can be enabled for secure remote access over the internet without port forwarding.
 
